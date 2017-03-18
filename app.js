@@ -44,7 +44,7 @@ console.log(2++);
 */
 
 // Strict Equal (===)
-var 5 === "five"
+
 console.log(5 === "five");
 
 
@@ -76,7 +76,7 @@ null <= null;
 // Not (!) - Reverses the logical state of its operand.
 !true;
 
-/*
+/* 
 * Conditionals
 * Using the variables given to you, create if, else, and else if statements
 */
