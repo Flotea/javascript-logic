@@ -31,7 +31,7 @@ console.log(5 % 2);
 //1
 
 // Increment (++)
-2++;
+console.log(2++);
 
 -1++;
 
@@ -44,7 +44,9 @@ console.log(5 % 2);
 */
 
 // Strict Equal (===)
-5 === "five";
+var 5 === "five"
+console.log(5 === "five");
+
 
 // Not Equal (!==)
 5!== "five";
